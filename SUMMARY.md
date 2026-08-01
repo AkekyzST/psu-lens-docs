@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Educational Evaluation System](README.md)
+* [PSU Assessment Lens](README.md)
 
 ## Getting Started
 
@@ -9,7 +9,7 @@
 ## นักศึกษา Student
 
 * [Homepage ภาพรวมทั้งหมด](student/overall.md)
-* [My Courses รายวิชาของฉัน](student/courses.md)
+* [My Courses รายวิชาที่ลงทะเบียน](student/courses.md)
 * [Evaluation Form ประเมินรายวิชา](student/evaluation.md)
 * [Evaluation History ประวัติการประเมิน](student/history.md)
 * [FAQ](student/faq.md)

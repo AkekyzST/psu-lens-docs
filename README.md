@@ -26,14 +26,14 @@ layout:
     visible: true
 ---
 
-# Educational Evaluation System
+# PSU Assessment Lens
 
-ยินดีต้อนรับสู่คู่มือการใช้งานระบบ **Educational Evaluation System (EES)** หรือ **ระบบประเมินกลางด้านการศึกษา** สร้างโดยสำนักการศึกษาและนวัตกรรมการเรียนรู้ (EILA) มหาวิทยาลัยสงขลานครินทร์\
+ยินดีต้อนรับสู่คู่มือการใช้งาน **PSU Assessment Lens** หรือ **ระบบประเมินกลางทางการศึกษา** มหาวิทยาลัยสงขลานครินทร์ พัฒนาโดยสำนักการศึกษาและนวัตกรรมการเรียนรู้ (EILA)\
 คู่มือนี้ถูกออกแบบมาเพื่อช่วยให้ผู้ใช้งานทุกท่านสามารถเรียนรู้และใช้งานระบบได้อย่างมีประสิทธิภาพ
 
 ## **เกี่ยวกับระบบ**
 
-Educational Evaluation System เป็นแพลตฟอร์มออนไลน์ที่ถูกพัฒนาขึ้นเพื่อสนับสนุนการประเมินผลด้านการศึกษาอย่างครบวงจร ตั้งแต่การจัดการข้อมูลผู้ใช้งาน การตั้งค่าการประเมิน ไปจนถึงการรายงานผล
+PSU Assessment Lens เป็นแพลตฟอร์มออนไลน์ที่ถูกพัฒนาขึ้นเพื่อสนับสนุนการประเมินผลทางการศึกษาอย่างครบวงจร ตั้งแต่การประเมินรายวิชา การทวนสอบผลสัมฤทธิ์ และการประเมินการสอนของอาจารย์ ไปจนถึงการรายงานผลในระดับอาจารย์ คณะ และวิทยาเขต โดยคำตอบของนักศึกษาจะถูกเก็บเป็นความลับและไม่เปิดเผยตัวตน
 
 ## จุดประสงค์ของระบบประเมิน
 
@@ -43,7 +43,7 @@ Educational Evaluation System เป็นแพลตฟอร์มออน�
 
 ## สิทธิ์การใช้งานระบบ
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>นักศึกษา</strong></td><td></td><td><a href=".gitbook/assets/pexels-photo-5676744.jpeg">pexels-photo-5676744.jpeg</a></td><td></td><td><a href="student/overall.md">overall.md</a></td></tr><tr><td><strong>อาจารย์</strong></td><td></td><td><a href=".gitbook/assets/pexels-photo-5905923.webp">pexels-photo-5905923.webp</a></td><td></td><td><a href="https://app.gitbook.com/s/GEIT8Xc7BPnEERiqYIni/lecturer">อาจารย์ Lecturer</a></td></tr><tr><td><strong>ผู้บริหาร</strong></td><td></td><td><a href=".gitbook/assets/pexels-photo-7433853.webp">pexels-photo-7433853.webp</a></td><td></td><td><a href="https://app.gitbook.com/s/GEIT8Xc7BPnEERiqYIni/executive">ผู้บริหาร Executive</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>นักศึกษา</strong></td><td>ประเมินรายวิชาที่ลงทะเบียนโดยไม่เปิดเผยตัวตน และติดตามสถานะการประเมินของตนเอง</td><td><a href=".gitbook/assets/pexels-photo-5676744.jpeg">pexels-photo-5676744.jpeg</a></td><td></td><td><a href="student/overall.md">overall.md</a></td></tr><tr><td><strong>อาจารย์</strong></td><td>ดูรายงานผลการประเมินตามผลลัพธ์การเรียนรู้ (CLO) ของรายวิชาที่สอน เพื่อพัฒนาการสอน</td><td><a href=".gitbook/assets/pexels-photo-5905923.webp">pexels-photo-5905923.webp</a></td><td></td><td><a href="lecturer/undefined.md">อาจารย์ Lecturer</a></td></tr><tr><td><strong>ผู้บริหาร</strong></td><td>ภาพรวมผลการประเมินระดับคณะและวิทยาเขตผ่านแดชบอร์ด เพื่อการตัดสินใจเชิงนโยบาย</td><td><a href=".gitbook/assets/pexels-photo-7433853.webp">pexels-photo-7433853.webp</a></td><td></td><td><a href="executive/undefined.md">ผู้บริหาร Executive</a></td></tr></tbody></table>
 
 ***
 
