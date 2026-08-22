@@ -15,7 +15,7 @@ This part is your reflection on how well the course/module worked. It has a set 
 
 ***
 
-## 2. Learning Outcome Validation
+## 2. Validation Assessment
 
 <figure><img src="../../.gitbook/assets/v2-student-eval-validation.png" alt=""><figcaption><p>The learning outcome validation form</p></figcaption></figure>
 
@@ -23,7 +23,7 @@ This part asks how much you feel you learned **what the course set out to teach 
 
 ***
 
-## 3. Lecturer Evaluation
+## 3. Instructor Evaluation
 
 This part lists the lecturers who taught the course (with their photo, if they uploaded one). The evaluation topics cover 4 main areas; some campuses or faculties may add more. If there is more than one lecturer, you can leave separate comments for each of them at the end of the part.
 

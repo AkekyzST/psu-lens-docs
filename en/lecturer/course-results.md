@@ -4,8 +4,8 @@
 
 The course evaluation result page pulls everything together. It starts with the course heading (course code, section, course name) and a row of metric cards:
 
-* **Response rate** — the number of people who completed the evaluation compared with the number of students enrolled, with a progress bar
-* **Average score** for each type (course/module assessment, learning outcome validation, instructor evaluation). Select a score card to switch to the results for that type. The instructor evaluation score is also shown as an **adjusted average score (out of 5)** so the types can be compared easily
+* **Number of responders in the evaluation** — the number of people who completed the evaluation compared with the number of students enrolled, with a progress bar
+* **Average score** for each type (course/module assessment, validation assessment, instructor evaluation). Select a score card to switch to the results for that type. The instructor evaluation score is also shown as an **adjusted average score (out of 5)** so the types can be compared easily
 
 Below is a bar chart of average scores per topic, plus a toolbar with the **Download report** button, the **Feedback / Suggestion** button (with a badge showing how many comments there are), and a **List View / Table View** toggle — read the results whichever way suits you.
 
