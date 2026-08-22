@@ -28,3 +28,19 @@
 ## ใบประเมินอื่น ๆ <a href="#other-evaluation" id="other-evaluation"></a>
 
 * [ใบประเมินอื่น ๆ ที่คุณเกี่ยวข้อง](other-evaluation/all-forms.md)
+
+## English Manual <a href="#english" id="english"></a>
+
+* [PSU Assessment Lens (English)](en/README.md)
+  * [Login with PSU Passport](en/getting-started/quickstart.md)
+  * [Student](en/student/overall.md)
+    * [My Courses](en/student/courses.md)
+    * [Evaluation Form](en/student/evaluation.md)
+    * [Evaluation History](en/student/history.md)
+    * [FAQ](en/student/faq.md)
+  * [Lecturer](en/lecturer/overview.md)
+    * [Course evaluation results](en/lecturer/course-results.md)
+    * [Profile settings](en/lecturer/profile.md)
+  * [Executive](en/executive/overview.md)
+    * [Course evaluation results](en/executive/course-results.md)
+  * [Other evaluation forms](en/other-evaluation/all-forms.md)
