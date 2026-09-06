@@ -4,7 +4,9 @@
 
 This page lets you view the evaluation results of every course within your scope. Search conveniently using the campus, faculty, department and semester filters together with a keyword (course code or course name).
 
-Results appear as a table showing the course code, course name, section, semester, academic year, number of respondents, submission percentage, and the average score for each evaluation type. You can also drill into an individual course for details such as its unit, teaching lecturers, and Course Learning Outcomes (CLO).
+Results appear as a table showing the course code, course name, section, submission percentage, and the average score for each evaluation type (course, learning validation, and lecturer). You can also drill into an individual course for details such as its unit, teaching lecturers, and Course Learning Outcomes (CLO).
+
+Click a column title to sort, for example by submission percentage or average score from highest to lowest (click again to reverse, a third time to clear). The funnel icon under a title filters that column, and the "columns showing" button at the top right of the table reveals extra columns such as semester/year, enrolled students, and number of respondents. Your column settings are remembered on this device.
 
 From here you can view the results in table form, or download them as an Excel file (.xlsx) — the same layout the lecturer result page produces.
 
