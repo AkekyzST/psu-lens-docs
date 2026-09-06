@@ -10,6 +10,8 @@ description: How to sign in to PSU Assessment Lens securely with PSU Passport
 
 Getting in is simple: press the **PSU Passport** button on the front page. The system takes you to Prince of Songkla University's central sign-in page (PSU Passport). Once your identity is confirmed, you are returned to PSU Assessment Lens automatically. There is nothing else to set up.
 
+Once signed in, the top-right corner shows the role you are working under (student, lecturer or executive) next to your avatar. People with more than one role can switch from the profile menu — see [Profile settings](../lecturer/profile.md).
+
 ## Which account do I use?
 
 The system accepts **PSU Passport** accounts only, so there is no separate registration, and Assessment Lens never stores your password. Use the same account you already use for other university services.

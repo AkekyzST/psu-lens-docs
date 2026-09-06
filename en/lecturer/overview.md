@@ -20,4 +20,9 @@ For fairness and to protect respondents' confidentiality, lecturers can only vie
 
 <figure><img src="../../.gitbook/assets/v2-lecturer-courses.png" alt=""><figcaption><p>Courses taught, showing submission rates and average scores once results have been released</p></figcaption></figure>
 
-Once the evaluation period is over and results have been released, the course card switches to showing average scores. Select it to open the detailed evaluation results.
+Once the evaluation period is over and results have been released, the course card switches to showing average scores. Select it to open the detailed evaluation results. If you teach many courses, type a course code, name or section into the search box at the top right to filter the cards.
+
+Courses are grouped by status:
+
+* **Needs data fixed** — sections whose data is incomplete, for example no CLO data from the Course Spec. system yet. Students cannot start evaluating such a section; please contact your faculty staff to import the data. The group only appears when something needs fixing, and the homepage shows a warning bar with the count.
+* **Results available** — sections that are ready, showing the submission rate and average scores once results exist.
