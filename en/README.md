@@ -58,4 +58,6 @@ _**Registrar’s Division, Prince of Songkla University**_
 
 Phone: [074-289260](tel:074289260) or [074-289262](tel:074289262) (internal line 3-9260 or 3-9262)
 
+Email: [lens-support@psu.ac.th](mailto:lens-support@psu.ac.th)
+
 Address: LRC Building, 2nd Floor, Prince of Songkla University, Khohong, Hat Yai Sub-District, Songkhla District, Thailand 90110
