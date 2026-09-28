@@ -25,6 +25,8 @@ This part asks how much you feel you learned **what the course set out to teach 
 
 ## 3. Instructor Evaluation
 
+<figure><img src="../../.gitbook/assets/v2-student-eval-lecturer.png" alt=""><figcaption><p>The instructor evaluation, showing each lecturer's uploaded photo (lecturers without one show their initials)</p></figcaption></figure>
+
 This part lists the lecturers who taught the course (with their photo, if they uploaded one). The evaluation topics cover 4 main areas; some campuses or faculties may add more. If there is more than one lecturer, you can leave separate comments for each of them at the end of the part.
 
 ***
