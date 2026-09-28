@@ -27,7 +27,11 @@ This part asks how much you feel you learned **what the course set out to teach 
 
 <figure><img src="../../.gitbook/assets/v2-student-eval-lecturer.png" alt=""><figcaption><p>The instructor evaluation, showing each lecturer's uploaded photo (lecturers without one show their initials)</p></figcaption></figure>
 
-This part lists the lecturers who taught the course (with their photo, if they uploaded one). The evaluation topics cover 4 main areas; some campuses or faculties may add more. If there is more than one lecturer, you can leave separate comments for each of them at the end of the part.
+This part lists the lecturers who taught the course, with their photo if they uploaded one (otherwise their initials), so you can tell at a glance which lecturer you are rating. The evaluation topics cover 4 main areas; some campuses or faculties may add more.
+
+* Each sub-topic shows what every score level means above the choices — read it before you pick
+* Every lecturer gets their own row of choices: **4, 3, 2, 1** (from 😍 to 😟), or **N/A** if the topic doesn't apply to that lecturer
+* If there is more than one lecturer, you can leave separate comments for each of them at the end of the part
 
 ***
 

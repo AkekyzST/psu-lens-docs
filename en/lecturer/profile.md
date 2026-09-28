@@ -19,7 +19,7 @@ Either way the system asks you to confirm, then reloads the page. The side menu 
 
 ## Profile photo
 
-Lecturers (and course coordinators) can upload a profile photo of up to **5 MB** in `.jpg` or `.png` format. The photo is shown to students when they evaluate teaching, and you can remove it at any time.
+Lecturers (and course coordinators) can upload a profile photo of up to **5 MB** in `.jpg` or `.png` format. The photo is shown to students when they evaluate teaching (see the [Instructor Evaluation](../student/evaluation.md#3.-instructor-evaluation) part for how it looks), and you can remove it at any time.
 
 {% hint style="warning" %}
 Use a clear, appropriate portrait so students recognise you and evaluate the right person.
