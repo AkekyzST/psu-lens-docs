@@ -7,8 +7,10 @@ When a lecturer signs in, the homepage greets you and shows your role, your facu
 Below that is an overview of the average scores for each type of evaluation, so you get the whole picture on one page.
 
 * Average score for the course/module assessment
-* Learning outcome validation results — the system links to the Course Spec. and reports the achievement level as either 50% and above, or below 50%
-* Average score for the lecturer teaching evaluation. Respondents who chose N/A or gave no opinion are excluded from the average, so the number reflects only those who actually scored you
+* Self-assessment results against the Course Learning Outcomes (CLO) — the system links to the Course Spec. and reports the achievement level as either 50% and above, or below 50%
+* Average score for the lecturer teaching evaluation, counting only your own scores, not those of other lecturers in the same section. Respondents who chose N/A or gave no opinion are excluded from the average, so the number reflects only those who actually scored you
+
+This overview counts only the sections you teach yourself.
 
 ## Courses/subjects taught
 
@@ -26,3 +28,7 @@ Courses are grouped by status:
 
 * **Needs data fixed** — sections whose data is incomplete, for example no CLO data from the Course Spec. system yet. Students cannot start evaluating such a section; please contact your faculty staff to import the data. The group only appears when something needs fixing, and the homepage shows a warning bar with the count.
 * **Results available** — sections that are ready, showing the submission rate and average scores once results exist.
+
+{% hint style="info" %}
+If you are the course coordinator for a section you do not teach yourself, its card shows only the submission rate and data readiness. It shows no score and does not open the result page, because the results belong to the lecturers who teach that section.
+{% endhint %}

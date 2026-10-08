@@ -2,6 +2,10 @@
 
 Evaluating one course has **3 parts**, completed in order, and finishes with the **"Review & submit"** tab. Work through one part at a time — the next part unlocks once you have passed the one before it. A progress rail along the side shows how far you have got in each part. You can only submit once every part is answered. It doesn't take long.
 
+{% hint style="info" %}
+Some courses do not require the **Self-Assessment** (part 2). For those courses the system skips that part for you, both in the progress rail and on the "Review & submit" tab, so you complete just two parts and submit.
+{% endhint %}
+
 * If you would rather not answer a question right now, skip it and come back to it later
 * The **"Save draft and next"** button in the top-right corner of each part saves your answers (without submitting them) and moves you to the next part in one click. You can leave the page and come back whenever you like
 
@@ -15,9 +19,9 @@ This part is your reflection on how well the course/module worked. It has a set 
 
 ***
 
-## 2. Validation Assessment
+## 2. Self-Assessment
 
-<figure><img src="../../.gitbook/assets/v2-student-eval-validation.png" alt=""><figcaption><p>The learning outcome validation form</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/v2-student-eval-validation.png" alt=""><figcaption><p>The self-assessment against the course learning outcomes</p></figcaption></figure>
 
 This part asks how much you feel you learned **what the course set out to teach you** — these are called the "Course Learning Outcomes (CLO)". The topics in this part are that course's learning outcomes.
 
@@ -37,7 +41,7 @@ This part lists the lecturers who taught the course, with their photo if they up
 
 ## 4. Review & submit
 
-The **"Review & submit"** tab collects your answers from all 3 parts so you can check them once more before sending. If anything is missing, the system tells you how many questions remain and will not let you submit until they are answered — so you can't send an incomplete form by accident.
+The **"Review & submit"** tab collects your answers from every part so you can check them once more before sending. If anything is missing, the system tells you how many questions remain and will not let you submit until they are answered — so you can't send an incomplete form by accident.
 
 <figure><img src="../../.gitbook/assets/v2-student-eval-summary.png" alt=""><figcaption><p>The Review and submit tab, summarising progress per part and flagging unanswered questions</p></figcaption></figure>
 

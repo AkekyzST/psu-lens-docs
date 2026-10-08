@@ -24,5 +24,20 @@ The system accepts **PSU Passport** accounts only, so there is no separate regis
 {% endhint %}
 
 {% hint style="info" %}
+The first time you open the system, the university's **cookie consent** banner appears at the bottom centre of the screen. The system uses only cookies needed to sign you in and cookies that remember your screen settings (theme, language); there are no analytics or marketing cookies. Give your consent and the banner closes. To change your choice later, use the cookie settings button in the bottom-right corner.
+{% endhint %}
+
+{% hint style="info" %}
 Set the screen up the way you like it — on the front page and in the top bar you can switch between **light and dark mode** and change the **language (Thai/English)** at any time.
 {% endhint %}
+
+## "This page is for another role"
+
+This page means you signed in successfully, but the page you opened is reserved for users with a different role (for example, a staff page opened with a student account). It names the account you are signed in with and offers two buttons:
+
+* **Back to home** — carry on with the same account
+* **Switch account** — sign out and sign in again with an account that has access; you are taken back to the page you wanted
+
+If your account has several roles, try switching role from the profile menu first — see [Profile settings](../lecturer/profile.md).
+
+If you see **"Access denied"** instead, your account has no role in this system yet. Please contact the administrator to request access.

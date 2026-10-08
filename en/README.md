@@ -38,11 +38,11 @@ This manual is written for everyone, whether or not you are comfortable with tec
 
 ## About the system
 
-PSU Assessment Lens is an online platform that handles the full cycle of education evaluation in one place: course evaluation, validation of student learning outcomes, and evaluation of teaching — all the way up to summaries at lecturer, faculty and campus level. Most importantly, student responses are always kept confidential and anonymous.
+PSU Assessment Lens is an online platform that handles the full cycle of education evaluation in one place: course evaluation, student self-assessment, and evaluation of teaching — all the way up to summaries at lecturer, faculty and campus level. Most importantly, student responses are always kept confidential and anonymous.
 
 ## Purpose
 
-The system brings together course/module evaluation results, validation of student learning achievement, and teaching evaluation results in a single place, so this feedback can be used to improve teaching in the semesters that follow and match what students actually need.
+The system brings together course/module evaluation results, student self-assessment against the course learning outcomes (CLO), and teaching evaluation results in a single place, so this feedback can be used to improve teaching in the semesters that follow and match what students actually need.
 
 ***
 

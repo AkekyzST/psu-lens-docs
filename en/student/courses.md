@@ -14,7 +14,7 @@ Courses are grouped by evaluation status, so you can tell at a glance which ones
 * **Not open for evaluation** — the course is not offered for evaluation in the system
 * **Submitted** — you have already sent your evaluation. Nicely done!
 
-Each course shows its course code, name and section, the status of all 3 evaluation parts, and the dates the evaluation window is open, so you can plan ahead.
+Each course shows its course code, name and section, the status of each evaluation part (course, self-assessment and lecturers), and the dates the evaluation window is open, so you can plan ahead. A course that does not require the self-assessment shows no status for that part, and you can submit once the course and lecturer parts are done.
 
 Select a course to start it, or to carry on where you left off. For a course you have already submitted, opening it shows what you answered as a read-only record.
 
